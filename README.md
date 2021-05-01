@@ -50,14 +50,21 @@ En la siguiente imagen se muestra el **diagrama de clases** realizado para la pl
 ◆Menos Usado
 
 ## ➔Minimal system span
+```markdown
 ◆El minimal system span es un concepto que se refiere a las minimas funciones, clases o features que debe tener un programa para ser funcional.
+
 ◆En el caso de este juego serian los siguientes:
 
 ◆Feature que cree y abra la ventana del juego
+
 ◆Feature que establesca los componentes necesarios que deben mostrarse en pantalla
+
 ◆Feature que guarde la secuencia del juego y del usuario
+
 ◆Feature que compare ambas secuencias
+
 ◆Feature que aumente el nivel y la dificultad de este
+```
 
 ## Editor:
 ```markdown
