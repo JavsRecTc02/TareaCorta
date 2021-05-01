@@ -25,4 +25,4 @@
 
 ## ➔Diseño
 En la siguiente imagen se muestra el **diagrama de clases** realizado para la planeacion del juego , el cual contiene las clases y subclases
-![Diagrama de Clases 1]
+![Diagrama de Clases 1](https://github.com/JavsRecTc02/TareaCorta/blob/gh-pages/SimonTec%20(1).png)
