@@ -9,6 +9,8 @@
 
 ◆ Como Desarrollador: quiero crear secuencias con los colores de una forma aleatoria.
 
+◆Como Desarrollador: quiero que cada color del panel se ilumine cuando corresponda en la secuencia.
+
 ◆ Como Desarrollador: quiero lograr que cada vez que suba el nivel la secuencia aumente y sea mas rapida.
 
 ◆ Como Desarrollador: quiero comparar la secuencia dada aleatoriamente con la del jugador.
@@ -20,3 +22,7 @@
 ◆Como Usuario: quiero poder introducir mi secuencia dentro del juego.
 
 ◆Como Desarrollador: quiero lograr que si la secuencia del juegador es diferente a la del juego , este se reinicie.
+
+## ➔Diseño
+En la siguiente imagen se muestra el **diagrama de clases** realizado para la planeacion del juego , el cual contiene las clases y subclases
+![Diagrama de Clases 1]
