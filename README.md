@@ -22,6 +22,7 @@
 ◆Como Usuario: quiero poder introducir mi secuencia dentro del juego.
 
 ◆Como Desarrollador: quiero lograr que si la secuencia del juegador es diferente a la del juego , este se reinicie.
+```
 
 ## ➔Diseño
 En la siguiente imagen se muestra el **diagrama de clases** realizado para la planeacion del juego , el cual contiene las clases y subclases
@@ -31,4 +32,5 @@ En la siguiente imagen se muestra el **diagrama de clases** realizado para la pl
 ## Editor:
 ```markdown
 Javier Tenorio Cervantes
+```
 
