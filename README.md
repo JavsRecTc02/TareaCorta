@@ -33,6 +33,7 @@ En la siguiente imagen se muestra el **diagrama de clases** realizado para la pl
 ◆Se presenta un cuadro que compara features del programa SimonTec para ver de una forma mas clara el uso de estos.
 
 ◆Mas Usado____________________________________________________________________________________
+
            |Abrir ventana de juego|         | Mostrar color   |         |  Mostrar nivel  |
            |    Frecuencia alta   |         | Frecuencia alta |         | Frecuencia alta |
  
