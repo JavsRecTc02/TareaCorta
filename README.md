@@ -28,3 +28,7 @@ En la siguiente imagen se muestra el **diagrama de clases** realizado para la pl
 
 ![Diagrama de Clases 1](https://raw.githubusercontent.com/JavsRecTc02/TareaCorta/gh-pages/SimonTec%20(1).png)
 
+## Editor:
+```markdown
+Javier Tenorio Cervantes
+
