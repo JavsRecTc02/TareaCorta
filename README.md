@@ -47,6 +47,7 @@ En la siguiente imagen se muestra el **diagrama de clases** realizado para la pl
           ------------------------------------------------------------------------------------               
            |  Ganar el juego   |         | Perder el juego |             
            |  Frecuencia baja  |         | Frecuencia baja |      
+            
             ___________________________________________________________________________________
 ◆Menos Usado
 
