@@ -29,6 +29,36 @@ En la siguiente imagen se muestra el **diagrama de clases** realizado para la pl
 
 ![Diagrama de Clases 1](https://raw.githubusercontent.com/JavsRecTc02/TareaCorta/gh-pages/SimonTec%20(1).png)
 
+## ➔Clasificacion por criticidad y frecuencia
+◆Se presenta un cuadro que compara features del programa SimonTec para ver de una forma mas clara el uso de estos.
+
+◆Mas Usado____________________________________________________________________________________
+           |Abrir ventana de juego|         | Mostrar color   |         |  Mostrar nivel  |
+           |    Frecuencia alta   |         | Frecuencia alta |         | Frecuencia alta |
+ 
+          ------------------------------------------------------------------------------------
+           |  Seleccion de color  |         | Cambio dificultad |         |   Añadir color   |     
+           |   Frecuencia media   |         | Frecuencia media  |         | Frecuencia media |
+           
+                         |  Aumentar el nivel   |                | Cambio de velocidad |             
+                         |   Frecuencia media   |                |  Frecuencia media   |
+                         
+          ------------------------------------------------------------------------------------               
+           |  Ganar el juego   |         | Perder el juego |             
+           |  Frecuencia baja  |         | Frecuencia baja |      
+            ___________________________________________________________________________________
+◆Menos Usado
+
+## ➔Minimal system span
+◆El minimal system span es un concepto que se refiere a las minimas funciones, clases o features que debe tener un programa para ser funcional.
+◆En el caso de este juego serian los siguientes:
+
+◆Feature que cree y abra la ventana del juego
+◆Feature que establesca los componentes necesarios que deben mostrarse en pantalla
+◆Feature que guarde la secuencia del juego y del usuario
+◆Feature que compare ambas secuencias
+◆Feature que aumente el nivel y la dificultad de este
+
 ## Editor:
 ```markdown
 Javier Tenorio Cervantes
